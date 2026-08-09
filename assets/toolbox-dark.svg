@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="326" viewBox="0 0 1000 326" role="img" aria-labelledby="title description">
+  <title id="title">Orion Van Gogh's engineering toolbox</title>
+  <desc id="description">Languages, AI and data technologies, and systems tools shown with local icon tiles and labels.</desc>
+  <style>
+    .group{font:600 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:1.7px;fill:#8b949e}.name{font:600 13px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#f0f6fc}.icon{font:700 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#f0f6fc}
+  </style>
+  <rect x="1" y="1" width="998" height="324" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M1 14A13 13 0 0 1 14 1H986A13 13 0 0 1 999 14V17H1Z" fill="#39c5cf" opacity="0.66"/>
+  <text x="42" y="67" class="group">LANGUAGES</text><text x="42" y="160" class="group">AI &amp; DATA</text><text x="42" y="253" class="group">SYSTEMS &amp; TOOLS</text>
+  <path d="M210 39V287M42 112H958M42 205H958" stroke="#30363d"/>
+
+  <g transform="translate(242 39)"><rect width="154" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="12" y="11" width="32" height="32" rx="8" fill="#d65a31"/><text x="28" y="32" text-anchor="middle" class="icon">Rs</text><text x="56" y="32" class="name">Rust</text></g>
+  <g transform="translate(410 39)"><rect width="154" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="12" y="11" width="32" height="32" rx="8" fill="#3572a5"/><text x="28" y="32" text-anchor="middle" class="icon">Py</text><text x="56" y="32" class="name">Python</text></g>
+  <g transform="translate(578 39)"><rect width="154" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="12" y="11" width="32" height="32" rx="8" fill="#16858c"/><text x="28" y="32" text-anchor="middle" class="icon">Go</text><text x="56" y="32" class="name">Go</text></g>
+  <g transform="translate(746 39)"><rect width="154" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="12" y="11" width="32" height="32" rx="8" fill="#8250df"/><text x="28" y="32" text-anchor="middle" class="icon" font-size="9">C++</text><text x="56" y="32" class="name">C++</text></g>
+
+  <g transform="translate(242 132)"><rect width="190" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="12" y="11" width="32" height="32" rx="16" fill="#ee4c2c"/><text x="28" y="32" text-anchor="middle" class="icon">PT</text><text x="56" y="32" class="name">PyTorch</text></g>
+  <g transform="translate(446 132)"><rect width="190" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="12" y="11" width="32" height="32" rx="16" fill="#336791"/><text x="28" y="32" text-anchor="middle" class="icon">PG</text><text x="56" y="32" class="name">PostgreSQL</text></g>
+  <g transform="translate(650 132)"><rect width="190" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="12" y="11" width="32" height="32" rx="16" fill="#b93b36"/><text x="28" y="32" text-anchor="middle" class="icon">R</text><text x="56" y="32" class="name">Redis</text></g>
+
+  <g transform="translate(228 225)"><rect width="137" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="10" y="11" width="32" height="32" rx="8" fill="#2496ed"/><text x="26" y="32" text-anchor="middle" class="icon">D</text><text x="52" y="32" class="name">Docker</text></g>
+  <g transform="translate(375 225)"><rect width="137" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="10" y="11" width="32" height="32" rx="8" fill="#d29922"/><text x="26" y="32" text-anchor="middle" class="icon">L</text><text x="52" y="32" class="name">Linux</text></g>
+  <g transform="translate(522 225)"><rect width="125" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="10" y="11" width="32" height="32" rx="8" fill="#f05032"/><text x="26" y="32" text-anchor="middle" class="icon">G</text><text x="52" y="32" class="name">Git</text></g>
+  <g transform="translate(657 225)"><rect width="137" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="10" y="11" width="32" height="32" rx="8" fill="#30363d"/><text x="26" y="32" text-anchor="middle" class="icon">GH</text><text x="52" y="32" class="name">GitHub</text></g>
+  <g transform="translate(804 225)"><rect width="154" height="54" rx="9" fill="#101720" stroke="#30363d"/><rect x="10" y="11" width="32" height="32" rx="8" fill="#007acc"/><text x="26" y="32" text-anchor="middle" class="icon">VS</text><text x="52" y="32" class="name">VS Code</text></g>
+</svg>

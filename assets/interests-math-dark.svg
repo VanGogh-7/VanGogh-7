@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="180" viewBox="0 0 310 180" role="img" aria-labelledby="title description">
+  <title id="title">Mathematics interests</title><desc id="description">Algebra, topology, and analysis.</desc>
+  <rect x="1" y="1" width="308" height="178" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/><path d="M1 13A12 12 0 0 1 13 1H297A12 12 0 0 1 309 13V16H1Z" fill="#58a6ff" opacity=".75"/>
+  <text x="22" y="43" fill="#58a6ff" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" font-weight="600" letter-spacing="1.5">01 / STRUCTURE</text>
+  <text x="22" y="72" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="650">MATHEMATICS</text>
+  <g fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12"><text x="24" y="105">Algebra</text><text x="24" y="127">Topology</text><text x="24" y="149">Analysis</text></g>
+  <g fill="none" stroke="#58a6ff" opacity=".28"><circle cx="236" cy="112" r="38"/><path d="M198 112c15-21 61-21 76 0M198 112c15 21 61 21 76 0M236 74c-18 17-18 59 0 76M236 74c18 17 18 59 0 76"/></g>
+  <text x="247" y="92" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10">G/H</text><text x="205" y="139" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10">π₁(X)</text>
+</svg>

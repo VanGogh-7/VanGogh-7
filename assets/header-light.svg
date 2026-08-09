@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title description">
+  <title id="title">Orion Van Gogh — Mathematics, Artificial Intelligence, and Systems</title>
+  <desc id="description">A light research banner with mathematical notation and a small agent runtime graph.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#d0d7de" stroke-width="1" opacity="0.55"/>
+    </pattern>
+    <linearGradient id="wash" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.64" stop-color="#f6f8fa"/>
+      <stop offset="1" stop-color="#eef3f8"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="258" rx="16" fill="url(#wash)" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="594" y="1" width="405" height="258" rx="15" fill="url(#grid)"/>
+  <path d="M1 16A15 15 0 0 1 16 1H984A15 15 0 0 1 999 16V20H1Z" fill="#0969da" opacity="0.78"/>
+
+  <text x="56" y="54" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="2.2">RESEARCH / ENGINEERING PROFILE</text>
+  <text x="56" y="102" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="650" letter-spacing="1.2">ORION VAN GOGH</text>
+  <text x="58" y="135" fill="#343941" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17">Mathematics · Artificial Intelligence · Systems</text>
+  <text x="58" y="164" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">Structures behind mathematics and intelligent systems.</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1.2">
+    <rect x="56" y="192" width="82" height="28" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><text x="97" y="210" text-anchor="middle" fill="#0969da">ALGEBRA</text>
+    <rect x="148" y="192" width="86" height="28" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><text x="191" y="210" text-anchor="middle" fill="#16858c">TOPOLOGY</text>
+    <rect x="244" y="192" width="102" height="28" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><text x="295" y="210" text-anchor="middle" fill="#8250df">AI AGENTS</text>
+    <rect x="356" y="192" width="62" height="28" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><text x="387" y="210" text-anchor="middle" fill="#1f2328">RUST</text>
+  </g>
+
+  <g fill="none" stroke="#0969da" stroke-width="1.2" opacity="0.34">
+    <circle cx="812" cy="126" r="79"/>
+    <path d="M733 126c23-44 135-44 158 0M733 126c23 44 135 44 158 0M812 47c-33 26-33 132 0 158M812 47c33 26 33 132 0 158"/>
+    <path d="M681 78C734 36 894 35 943 86M666 187c58 40 211 43 279-4" stroke="#8250df"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" fill="#57606a" font-size="12">
+    <text x="631" y="62">π₁(X)</text><text x="902" y="57">G / H</text><text x="905" y="216">Hom(A,B)</text><text x="635" y="225">f : X → Y</text>
+  </g>
+
+  <g stroke="#16858c" stroke-width="1.5" fill="#f6f8fa">
+    <path d="M735 126L808 98L876 137" opacity="0.7"/>
+    <circle cx="735" cy="126" r="21"/><circle cx="808" cy="98" r="21"/><circle cx="876" cy="137" r="21"/>
+  </g>
+  <g fill="#1f2328" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9" text-anchor="middle">
+    <text x="735" y="129">Router</text><text x="808" y="101">Agent</text><text x="876" y="140">Tool</text>
+  </g>
+  <circle cx="958" cy="36" r="3" fill="#16858c"/><circle cx="970" cy="36" r="3" fill="#8250df"/><circle cx="946" cy="36" r="3" fill="#0969da"/>
+</svg>
