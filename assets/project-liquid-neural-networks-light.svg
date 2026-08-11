@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180" role="img" aria-labelledby="title description">
+  <title id="title">liquid-neural-networks-from-scratch repository</title><desc id="description">Liquid Neural Networks from first principles: curriculum, LaTeX textbook, pure PyTorch implementations, and reproducible experiments.</desc>
+  <rect x="1" y="1" width="478" height="178" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/><path d="M1 13A12 12 0 0 1 13 1H467A12 12 0 0 1 479 13V16H1Z" fill="#4f772d" opacity=".78"/>
+  <text x="24" y="45" fill="#4f772d" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" font-weight="600" letter-spacing="1.5">FROM FIRST PRINCIPLES</text><text x="448" y="47" text-anchor="end" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15">↗</text>
+  <text x="24" y="80" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="650">liquid-neural-networks-from-scratch</text>
+  <text x="24" y="108" fill="#343941" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13">Curriculum, LaTeX textbook, pure PyTorch models,</text><text x="24" y="127" fill="#343941" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13">and reproducible experiments.</text>
+  <text x="24" y="157" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="1">TEX  ·  PYTORCH  ·  DYNAMICAL SYSTEMS</text>
+  <g fill="none" stroke="#4f772d" opacity=".24"><path d="M374 126C386 72 397 72 410 100S435 128 447 72"/><circle cx="374" cy="126" r="4" fill="#ffffff"/><circle cx="410" cy="100" r="4" fill="#ffffff"/><circle cx="447" cy="72" r="4" fill="#ffffff"/></g>
+</svg>

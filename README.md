@@ -66,13 +66,6 @@
 ## 04 / SELECTED WORK
 
 <p align="center">
-  <a href="https://github.com/VanGogh-7/Group">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-group-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/project-group-light.svg" />
-      <img src="./assets/project-group-light.svg" alt="Group — strongly typed asynchronous state-graph runtime for Rust agents" width="48%" />
-    </picture>
-  </a>
   <a href="https://github.com/VanGogh-7/machine_learning">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/project-machine-learning-dark.svg" />
@@ -80,21 +73,28 @@
       <img src="./assets/project-machine-learning-light.svg" alt="machine_learning — a Python machine-learning project" width="48%" />
     </picture>
   </a>
+  <a href="https://github.com/VanGogh-7/liquid-neural-networks-from-scratch">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-liquid-neural-networks-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/project-liquid-neural-networks-light.svg" />
+      <img src="./assets/project-liquid-neural-networks-light.svg" alt="liquid-neural-networks-from-scratch — Liquid Neural Networks from first principles" width="48%" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/VanGogh-7/Group">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-group-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/project-group-light.svg" />
+      <img src="./assets/project-group-light.svg" alt="Group — strongly typed asynchronous state-graph runtime for Rust agents" width="48%" />
+    </picture>
+  </a>
   <a href="https://github.com/VanGogh-7/cloud_agent_new">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/project-cloud-agent-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/project-cloud-agent-light.svg" />
       <img src="./assets/project-cloud-agent-light.svg" alt="cloud_agent_new — multi-agent cloud assistant with LangGraph orchestration" width="48%" />
-    </picture>
-  </a>
-  <a href="https://github.com/VanGogh-7/deep_research_new">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-deep-research-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/project-deep-research-light.svg" />
-      <img src="./assets/project-deep-research-light.svg" alt="deep_research_new — multi-agent research assistant with deterministic retrieval" width="48%" />
     </picture>
   </a>
 </p>
