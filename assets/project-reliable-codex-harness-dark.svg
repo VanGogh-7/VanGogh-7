@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180" role="img" aria-labelledby="title description">
+  <title id="title">Reliable-codex-harness repository</title><desc id="description">Deterministic engineering control-plane kernels for Codex.</desc>
+  <rect x="1" y="1" width="478" height="178" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/><path d="M1 13A12 12 0 0 1 13 1H467A12 12 0 0 1 479 13V16H1Z" fill="#39c5cf" opacity=".68"/>
+  <text x="24" y="45" fill="#39c5cf" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" font-weight="600" letter-spacing="1.5">RELIABLE AGENT ENGINEERING</text><text x="448" y="47" text-anchor="end" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15">↗</text>
+  <text x="24" y="80" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="650">Reliable-codex-harness</text>
+  <text x="24" y="108" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13">Deterministic engineering control-plane</text><text x="24" y="127" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13">kernels for Codex.</text>
+  <text x="24" y="157" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="1">PYTHON  ·  CODEX  ·  AGENT HARNESS</text>
+  <g fill="none" stroke="#39c5cf" opacity=".3" stroke-width="1.5"><path d="M407 64L439 76V99C439 120 426 134 407 141C388 134 375 120 375 99V76Z"/><path d="M391 101L402 112L424 87"/><path d="M365 83H350M365 122H350M449 83H464M449 122H464"/></g>
+</svg>

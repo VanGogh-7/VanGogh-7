@@ -90,11 +90,11 @@
       <img src="./assets/project-group-light.svg" alt="Group — strongly typed asynchronous state-graph runtime for Rust agents" width="48%" />
     </picture>
   </a>
-  <a href="https://github.com/VanGogh-7/cloud_agent_new">
+  <a href="https://github.com/VanGogh-7/Reliable-codex-harness">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-cloud-agent-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/project-cloud-agent-light.svg" />
-      <img src="./assets/project-cloud-agent-light.svg" alt="cloud_agent_new — multi-agent cloud assistant with LangGraph orchestration" width="48%" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-reliable-codex-harness-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/project-reliable-codex-harness-light.svg" />
+      <img src="./assets/project-reliable-codex-harness-light.svg" alt="Reliable-codex-harness — deterministic engineering control-plane kernels for Codex" width="48%" />
     </picture>
   </a>
 </p>
