@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="410" viewBox="0 0 1000 410" role="img" aria-labelledby="title description">
+  <title id="title">VanGogh-7 public GitHub activity</title>
+  <desc id="description">Public contribution, repository, follower, and repository-language statistics generated from the GitHub API.</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .eyebrow { font: 600 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2px; fill: #0969da; }
+    .heading { font: 600 21px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .period { font: 500 11px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #57606a; }
+    .metric { font: 600 27px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #1f2328; }
+    .label { font: 600 10px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 1px; fill: #57606a; }
+    .language { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #1f2328; }
+    .percentage { font: 500 11px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #57606a; }
+  </style>
+  <rect x="1" y="1" width="998" height="408" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <path d="M1 14A13 13 0 0 1 14 1H986A13 13 0 0 1 999 14V18H1Z" fill="#0969da" opacity="0.72"/>
+  <text x="45" y="49" class="eyebrow">GITHUB / ACTIVITY</text>
+  <text x="45" y="74" class="heading">Public profile telemetry</text>
+  <text x="955" y="49" text-anchor="end" class="period">PUBLIC ACTIVITY · 31 Aug 2025 — 31 Aug 2026</text>
+  
+      <rect x="65" y="92" width="270" height="84" rx="10" fill="#f0f4f8" stroke="#d0d7de"/>
+      <text x="85" y="132" class="metric">409</text>
+      <text x="85" y="157" class="label">CONTRIBUTIONS / 365 DAYS</text>
+      <rect x="365" y="92" width="270" height="84" rx="10" fill="#f0f4f8" stroke="#d0d7de"/>
+      <text x="385" y="132" class="metric">14</text>
+      <text x="385" y="157" class="label">PUBLIC REPOSITORIES</text>
+      <rect x="665" y="92" width="270" height="84" rx="10" fill="#f0f4f8" stroke="#d0d7de"/>
+      <text x="685" y="132" class="metric">12</text>
+      <text x="685" y="157" class="label">FOLLOWERS</text>
+  <line x1="45" y1="202" x2="955" y2="202" stroke="#d0d7de"/>
+  <text x="45" y="226" class="eyebrow">REPOSITORY-LANGUAGE FOOTPRINT</text>
+  
+      <text x="66" y="253" class="language">Python</text>
+      <rect x="215" y="239" width="470" height="12" rx="6" fill="#d8dee4"/>
+      <rect x="215" y="239" width="470" height="12" rx="6" fill="#0969da"/>
+      <text x="706" y="252" class="percentage">61.0%</text>
+      <text x="66" y="280" class="language">Rust</text>
+      <rect x="215" y="266" width="470" height="12" rx="6" fill="#d8dee4"/>
+      <rect x="215" y="266" width="259" height="12" rx="6" fill="#8250df"/>
+      <text x="706" y="279" class="percentage">33.7%</text>
+      <text x="66" y="307" class="language">TypeScript</text>
+      <rect x="215" y="293" width="470" height="12" rx="6" fill="#d8dee4"/>
+      <rect x="215" y="293" width="30" height="12" rx="6" fill="#16858c"/>
+      <text x="706" y="306" class="percentage">3.9%</text>
+      <text x="66" y="334" class="language">CSS</text>
+      <rect x="215" y="320" width="470" height="12" rx="6" fill="#d8dee4"/>
+      <rect x="215" y="320" width="5" height="12" rx="6" fill="#d29922"/>
+      <text x="706" y="333" class="percentage">0.6%</text>
+      <text x="66" y="361" class="language">TeX</text>
+      <rect x="215" y="347" width="470" height="12" rx="6" fill="#d8dee4"/>
+      <rect x="215" y="347" width="4" height="12" rx="6" fill="#7ee787"/>
+      <text x="706" y="360" class="percentage">0.5%</text>
+  <text x="955" y="386" text-anchor="end" class="period">UPDATED 31 Aug 2026 UTC</text>
+</svg>
